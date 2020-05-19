@@ -42,6 +42,6 @@ System.out.println(myConf.getMySingleNestedObject());<br/>
 System.out.println(myConf.getMyNestedObjectList());<br/>
 <br/>
 <br/>
-The application will read the values array, json object and list of json object from the configuration file then display it in the terminal.<br/>
+The application will read the values in array, json object and list of json object from the configuration file then display them in the terminal.<br/>
 
 
