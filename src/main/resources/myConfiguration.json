@@ -1,0 +1,15 @@
+{
+  "myStringList" : [
+  	"arrayString1",
+  	"arrayString2"
+  	],
+  	"mySingleNestedObject" : {
+  		"myNestedString1":"qwerty1",
+  		"myNestedString2":"qwerty2"
+  	},
+  	"myNestedObjectList" : [{
+  		"nestedObject1" : "value1"
+  	},{
+  		"nestedObject2" : "value2"
+  	}]
+}
